@@ -1,0 +1,28 @@
+{
+  "name": "bunq2afaspersonal",
+  "version": "1.0.0",
+  "description": "Retrieve Bunq transactions and convert to a Afas Personal convenient format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdkleine/bunq2afaspersonal.git"
+  },
+  "keywords": [
+    "bunq",
+    "afas",
+    "convert",
+    "banktransactions"
+  ],
+  "author": "Ralf de Kleine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdkleine/bunq2afaspersonal/issues"
+  },
+  "homepage": "https://github.com/rdkleine/bunq2afaspersonal#readme",
+  "devDependencies": {
+    "serve": "^6.0.6"
+  }
+}
