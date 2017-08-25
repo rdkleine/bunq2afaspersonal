@@ -3,3 +3,6 @@ node_modules
 # important stuff
 bunq_rsa
 bunq_rsa.pub
+
+# temp files
+temp.md
