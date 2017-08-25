@@ -4,5 +4,5 @@ node_modules
 bunq_rsa
 bunq_rsa.pub
 
-# temp files
-temp.md
+# test/temp files
+temp
